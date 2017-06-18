@@ -1,0 +1,30 @@
+.blue {
+	color: blue;
+}
+
+.large {
+	font-size: 3em;
+}
+
+.border {
+	border: 1px solid black;
+}
+
+.round {
+	padding: 10px;
+	background-color: orange;
+	border-radius: 10px;
+}
+
+button {
+	display: block;
+}
+
+.article-section:first-child {
+	font-weight: bold;
+}
+
+.article-section:last-child {
+	font-weight: bold;
+	font-style: italic;
+}
